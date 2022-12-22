@@ -18,7 +18,5 @@ A simple and easy-to-use tool to download videos from Youtube.
 5. Click the "Download" button to save the video to your device
 
 > Contributing
-If you would like to contribute to the development of Youtube-Downloader, please fork the repository and submit a pull request with your changes.
 
-> License
-Youtube-Downloader is licensed under the MIT License. See the LICENSE file for more details.
+If you would like to contribute to the development of Youtube-Downloader, please fork the repository and submit a pull request with your changes.
